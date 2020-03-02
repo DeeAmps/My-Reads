@@ -35,7 +35,7 @@ class BooksApp extends React.Component {
   render() {
 
     return (
-      <div className="app">å
+      <div className="app">
         <Route
           path="/"
           exact
